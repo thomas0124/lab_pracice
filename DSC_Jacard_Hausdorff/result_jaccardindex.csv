@@ -1,0 +1,4 @@
+File1,File2,Jaccard_Index
+image1/image1.png,image2/image1.png,1.0
+image1/image1.png,image2/image2.png,0.798182129972743
+image1/image1.png,image2/image3.png,0.5595126043630256
